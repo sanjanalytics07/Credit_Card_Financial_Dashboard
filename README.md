@@ -31,6 +31,7 @@ Credit Card Operations effectively.
 12. Age Group of 40-50 years customers are the highest revenue generating group
 13. Overall Delinquent account is 6.06% of the total
 14. While Male credit card customers are 31 Million, Female xredit card customers are 26 Million
+
 Week-on-Week Change (as per 31st December 2023):
 1. Revenue increased by 28.8%
 2. Total Transaction amount increaded by 35.0%
