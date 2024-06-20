@@ -1,5 +1,5 @@
 # Credit_Card_Financial_Dashboard
-Credit Card Financial Report Version 1
+Credit Card Financial Report
 # Project Objective: 
 To develope a comprehensive Credit Card Weekly dashboard that provides real-time insights
 into key performance metrics and trends w.r.t various factors such as Transaction details (transaction amount, transaction volume, etc)
