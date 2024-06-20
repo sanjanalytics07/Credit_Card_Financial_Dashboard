@@ -1,4 +1,4 @@
-# Credit_Card_version1
+# Credit_Card_Financial_Dashboard
 Credit Card Financial Report Version 1
 # Project Objective: 
 To develope a comprehensive Credit Card Weekly dashboard that provides real-time insights
