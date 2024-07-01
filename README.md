@@ -2,7 +2,7 @@
 Credit Card Financial Report
 # Project Objective: 
 To develope a comprehensive Credit Card Weekly dashboard that provides real-time insights
-into key performance metrics and trends w.r.t various factors such as Transaction details (transaction amount, transaction volume, etc)
+into key performance metrics and trends w.r.t various factors such as Transaction details (transaction amount, transaction volume, etc.)
 Credit Card Category, Customer details(Age Group, Education level, Job type, Expenditure type, etc.), etc. enabling stakeholders to monitor and analyse
 Credit Card Operations effectively.
 
